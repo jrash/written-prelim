@@ -20,8 +20,6 @@ library(mgcv)
 
 ## Sample Curve Plots
 
-You can also embed plots, for example:
-
 ```{r fig1, fig.height=9, fig.width=9, echo = F, cache = T, fig.cap= 'Example of the non-linear regression fits and interval estimates by four methods. (top) Least squares fit with 95% confidence intervals (red) estimated by linear approximation or parametric bootstrap.  The true function used to generate the data is shown in blue.  (bottom left) Bayesian non linear regression.  Fit is the posterior mean of the regression line (purple dashed) along with a 95% credible interval (red).  (bottom right) Fit estimated by a smoothing spline (purple dashed) with Bayesian 95% credible interval (red).'}
 
 ####### Loading in the data
