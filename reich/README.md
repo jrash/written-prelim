@@ -1,6 +1,6 @@
-# Overview of contents
+# Overview of contents of supplementary
 
-* `supplementary/DRdata.Rdata` and `supplementary/DRdata.Rdata` contain the dose response data.
-* `supplementary/dr_simulate.r` contains the code to simulate the dose response data.
-* `supplementary/analyses.rmd` contains the code for my analyses.  
-* `supplementary/written_prelim_reich.rmd` contains the code to generate the report.
+* `DRdata.Rdata` and `DRdata.Rdata` contain the dose response data.
+* `dr_simulate.r` contains the code to simulate the dose response data.
+* `analyses.rmd` contains the code for my analyses.  
+* `written_prelim_reich.rmd` contains the code to generate the report.
