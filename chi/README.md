@@ -1,5 +1,6 @@
 # Overview of contents
 
+* Main report is `Chi_answer.pdf`
 * The `supplementary` directory contains:
 
   *  The `final_report` directory contains the rmarkdown file and additional files used to generate the report.  
